@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8aa3737126c4c147b2b9caf3ca77b39, type: 3}
+  m_Name: Woodwork
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 93365ff780186544f8fc768b650fc46d, type: 3}
+  selected: 0
+  unlockNumber: 10
+  currentUnlockNumber: 0
+  type: 2
+  aminoNumber: 43
+  collider: {fileID: 2209162127163918980, guid: 776a2591ad2331940be7685c35972185,
+    type: 3}
+  propellers: {fileID: 9049295909200070166, guid: ca5a0f959675e164a903f2f4ab5de732,
+    type: 3}
+  projectile: {fileID: 0}
+  color1: {r: 0.04313726, g: 0.07450981, b: 0.1294118, a: 1}
+  color2: {r: 0.4509804, g: 0.2627451, b: 0, a: 1}

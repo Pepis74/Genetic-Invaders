@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 315 345" style="enable-background:new 0 0 315 345;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#810401;}
+	.st1{fill:#228DB5;}
+	.st2{fill:none;stroke:#4D4D4D;stroke-width:16;stroke-miterlimit:10;}
+	.st3{fill:#5C5C5C;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#B3220B;}
+	.st6{fill:#4A4A4A;}
+	.st7{fill:#29ABE2;}
+	.st8{fill:none;stroke:#5C5C5C;stroke-width:16;stroke-miterlimit:10;}
+</style>
+<title>Spaceship</title>
+<polygon class="st0" points="199,170.5 199,187.5 115.5,209 115.5,193 "/>
+<polyline class="st1" points="187,183 187,204 187,307 298.8,308 187,183 298.8,308 "/>
+<polyline class="st1" points="128,183 128,204 128,307 16.2,308 128,183 16.2,308 "/>
+<path class="st2" d="M187,271"/>
+<polygon class="st0" points="199,78.5 199,95.5 115.5,117 115.5,101 "/>
+<polygon class="st0" points="199,123.5 199,140.5 115.5,162 115.5,146 "/>
+<polygon class="st3" points="187,24 187,333 128,333 128,24 146,0 168,0 "/>
+<path class="st4" d="M173.5,38.5"/>
+<polygon class="st5" points="115.5,54.5 115.5,71.5 199,93 199,77 "/>
+<polygon class="st5" points="115.5,101.5 115.5,118.5 199,140 199,124 "/>
+<polygon class="st5" points="115.5,193.5 115.5,210.5 199,232 199,216 "/>
+<polygon class="st5" points="115.5,238.5 115.5,255.5 199,277 199,261 "/>
+<polygon class="st5" points="115.5,285.5 115.5,302.5 199,324 199,308 "/>
+<polygon class="st6" points="140,345 134.2,333 181.4,333 177,345 "/>
+<polygon class="st7" points="128,24 146,0 168,0 187,24 174,38 142,38 "/>
+<path class="st8" d="M129,271"/>
+<polygon class="st0" points="0,322 45,309 45,301 0,313 "/>
+<path class="st8" d="M38,300.8"/>
+<polygon class="st3" points="39,292 32,284 13,284 6,293 7,334 38,334 "/>
+<polygon class="st6" points="15.2,340 30.2,340 33.2,334 11.5,334 "/>
+<polygon class="st5" points="0,287 45,301 45,309 0,296 "/>
+<polygon class="st5" points="0,313 45,327 45,335 0,322 "/>
+<polygon class="st0" points="270,321 315,308 315,300 270,312 "/>
+<path class="st8" d="M277,299.8"/>
+<polygon class="st3" points="276,291 283,283 302,283 309,292 308,333 277,333 "/>
+<polygon class="st6" points="299.8,339 284.8,339 281.8,333 303.5,333 "/>
+<polygon class="st5" points="270,286 315,300 315,308 270,295 "/>
+<polygon class="st5" points="270,312 315,326 315,334 270,321 "/>
+<polygon class="st5" points="115.5,146.5 115.5,163.5 199,185 199,169 "/>
+</svg>

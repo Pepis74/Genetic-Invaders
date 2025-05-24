@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8aa3737126c4c147b2b9caf3ca77b39, type: 3}
+  m_Name: Hemoglobin
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a2726e60805987a4eac1768bb635c38f, type: 3}
+  selected: 0
+  unlockNumber: 10
+  currentUnlockNumber: 0
+  type: 2
+  aminoNumber: 40
+  collider: {fileID: 2209162127163918980, guid: 776a2591ad2331940be7685c35972185,
+    type: 3}
+  propellers: {fileID: 6444110748676611101, guid: 84061a0740dc3c64aaae311fabbd5671,
+    type: 3}
+  projectile: {fileID: 0}
+  color1: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  color2: {r: 0.7058824, g: 0.05882353, b: 0, a: 1}

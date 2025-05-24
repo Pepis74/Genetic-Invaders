@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8aa3737126c4c147b2b9caf3ca77b39, type: 3}
+  m_Name: BlueMorpho
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: d321fd22241e00b43a8902b9274b5ccb, type: 3}
+  selected: 0
+  unlockNumber: 20
+  currentUnlockNumber: 0
+  type: 2
+  aminoNumber: 45
+  collider: {fileID: 8955358324446311579, guid: 817484df39dd17643a6252b4906119ee,
+    type: 3}
+  propellers: {fileID: 6199328016234350208, guid: cf4573e7008edf34a8571a1fbcfbf13f,
+    type: 3}
+  projectile: {fileID: 0}
+  color1: {r: 0, g: 0.05098039, b: 0.1215686, a: 1}
+  color2: {r: 0, g: 0.4313726, b: 1, a: 1}
